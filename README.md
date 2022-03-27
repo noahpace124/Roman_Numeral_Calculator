@@ -3,4 +3,4 @@ This is a C++ program that converts Roman Numerals inputted into their mathemati
 
 I spent about an hour on this project.
 
-To compile this project, please run the makefile and it will produce the Roman_Numerals.exe program.
+To compile this project, please download main.cpp and makefile. To produce the program run the makefile and it will create Roman_Numerals.exe.
